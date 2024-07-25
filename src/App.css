@@ -1,0 +1,26 @@
+body{
+    background-color: #E8E3DE;
+}
+.container-text{
+    cursor: pointer;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+}
+.container-links {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+}
+a{
+    transition: 3seg;
+    cursor: pointer;
+}
+a:hover{
+    box-shadow: rgb(0, 246, 164) 0px 1px 0px 0px;
+}
+
