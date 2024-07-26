@@ -1,3 +1,4 @@
+import { Button } from '../button'
 import './index.css'
 
 export const Content = () => {
@@ -15,10 +16,7 @@ export const Content = () => {
           <div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt finibus diam. Nulla ornare mollis risus sed mattis. Nunc at mauris ut velit sollicitudin dignissim ac eget turpis. Duis quis laoreet tellus, eu condimentum mauris. Quisque sed imperdiet lorem. Fusce euismod risus eu tortor dapibus vehicula. Integer rhoncus lorem nec lobortis sagittis. Aenean elementum et lorem in suscipit. Suspendisse at diam eget quam laoreet viverra.</p>
           </div>
-          <div className='btn-view-work'>
-            <button>View Work</button>
-          </div>
-          
+            <Button></Button>
         </div>
       </div>
         </>
