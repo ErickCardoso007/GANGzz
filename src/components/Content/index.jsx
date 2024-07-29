@@ -6,7 +6,7 @@ export const Content = () => {
         <>
         <div className='container-content'>
         <div>
-          <img src="https://i.pinimg.com/564x/ef/82/23/ef8223293a1c485c55620be8caeb6a84.jpg" alt="Erro" width={400} height={500} />
+          <img src="https://i.pinimg.com/564x/ef/82/23/ef8223293a1c485c55620be8caeb6a84.jpg" alt="Error" />
         </div>
         <div className='container-text'>
           <div>
